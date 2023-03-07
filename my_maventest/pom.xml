@@ -21,7 +21,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>example.Sample</mainClass>
+							<mainClass>my_maventest.Hello</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
